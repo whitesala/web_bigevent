@@ -14,6 +14,8 @@ $(function(){
             layer.close(index)
         })
     })
+
+    
 })
 
 
